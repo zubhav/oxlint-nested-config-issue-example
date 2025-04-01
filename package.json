@@ -1,0 +1,14 @@
+{
+  "name": "oxlint-nested-config-issue-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "oxlint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "oxlint": "^0.16.3"
+  }
+}
