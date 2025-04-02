@@ -1,5 +1,7 @@
 {
-    "rules": {
-      "no-console": "warn"
-    }
+  "plugins": ["vitest"],
+  "rules": {
+    "no-console": "error",
+    "vitest/no-focused-tests": "warn"
   }
+}

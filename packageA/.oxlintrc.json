@@ -1,5 +1,3 @@
 {
-    "rules": {
-      "no-console": "off"
-    }
-  }
+  "extends": ["../.oxlintrc.json"]
+}
