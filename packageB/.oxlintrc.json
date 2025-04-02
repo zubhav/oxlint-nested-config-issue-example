@@ -1,5 +1,5 @@
 {
-  "plugins": ["vitest"],
+  "extends": ["../.oxlintrc.json"],
   "rules": {
     "vitest/no-focused-tests": "error"
   }
